@@ -1,8 +1,13 @@
-Need Python ,Pip,pipend setup,React 
+### Prerequisites
+Python
+Pip
+Pipend,
+React 
+
 In the project directory, you can run:
 
 
-### run  frontend folder
+### Run  frontend folder
 
 ```
 npm install
@@ -12,7 +17,7 @@ npm start
 ```
 
 
-### run  backend folder
+### Run  backend folder
 
 ```
 pipenv shell
